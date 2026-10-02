@@ -1,0 +1,7 @@
+# On ignore tout par défaut
+*
+
+# Sauf les fichiers du projet Docker qu'on veut suivre
+!.gitignore
+!docker-compose.yml
+!README.md
